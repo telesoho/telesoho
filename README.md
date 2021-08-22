@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the Year 2021
+> 🏆 44 Contributions in the Year 2021
  > 
 > 📦 676.2 kB Used in Github's Storage 
  > 
@@ -26,12 +26,12 @@
 
 ```text
 Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
 Wednesday    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
 Thursday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
 Saturday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -80,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/telesoho/telesoho/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 
