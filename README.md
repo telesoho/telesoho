@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C819%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-929%20Thousand%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████████████   100.0%
+Markdown                 5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+VS Code                  5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -57,7 +57,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/telesoho/telesoho/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 05:53:59 UTC
+ Last Updated on 20/08/2022 05:46:55 UTC
 <!--END_SECTION:waka-->
 
 
