@@ -30,13 +30,14 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              ███████████████████░░░░░░   76.22% 
+Python                   1 min               ██████░░░░░░░░░░░░░░░░░░░   23.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -57,7 +58,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/telesoho/telesoho/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 05:46:35 UTC
+ Last Updated on 07/11/2022 05:54:21 UTC
 <!--END_SECTION:waka-->
 
 
